@@ -27,13 +27,13 @@ An attempt to replicate the auto-suggest feature of Google to make the search qu
 
 ### Features
 
-- **Auto build of Trie before performing queries.**
-- **Insert a word with its meaning.**
-- **Search for a word.**
-- **Get word of the day.**
-- **Find similar words.**
+- Auto build of Trie before performing queries.
+- Insert a word with its meaning.
+- Search for a word.
+- Get word of the day.
+- Find similar words.
 
 ### Screenshots
 
-- [](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Menu.JPG)
+- [hello](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Menu.JPG)
 
