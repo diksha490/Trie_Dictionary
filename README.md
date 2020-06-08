@@ -35,11 +35,11 @@ An attempt to replicate the auto-suggest feature of Google to make the search qu
 
 ### Screenshots
 
-![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Menu.JPG)
-![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Insert%20word.JPG)
-![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Search%20word.JPG)
-![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Similar%20words.JPG)
-![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Word%20of%20day.JPG)
+- ![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Menu.JPG)
+- ![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Insert%20word.JPG)
+- ![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Search%20word.JPG)
+- ![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Similar%20words.JPG)
+- ![alt text](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Word%20of%20day.JPG)
 
 
 
