@@ -35,5 +35,5 @@ An attempt to replicate the auto-suggest feature of Google to make the search qu
 
 ### Screenshots
 
-- [hello](https://github.com/SaurabhPuri2265/Trie_Dictionary/blob/master/Screenshots/Menu.JPG)
+- [](Screenshots/Menu.JPG)
 
