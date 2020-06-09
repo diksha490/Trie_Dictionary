@@ -1,7 +1,7 @@
 # Trie Dictionary
 
 ```
-Author - Saurabh Puri
+Author - Diksha Gupta
 Language - Java
 
 ```
