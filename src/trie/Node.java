@@ -6,12 +6,9 @@
 package trie;
 import java.util.*;
 
-/**
- *
- * @author Dell
- */
+
 public class Node {
-     char c;
+     //char c;
 	 HashMap<Character,Node> children;
 	 String meaning;
 	
