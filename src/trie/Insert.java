@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package trie;
 import java.util.*;
 
@@ -16,10 +11,6 @@ import java.io.*;
 import javax.swing.*;
 
 
-/**
- *
- * @author Dell
- */
 public class Insert extends javax.swing.JFrame {
 
     /**
